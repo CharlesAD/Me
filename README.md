@@ -11,10 +11,10 @@
 
 ## This is a list of things I don't like
 
-| The thing | Rating out of 10 (10 is bad) |
+| The things | Rating out of 10 (10 is bad) |
 | ----------- | ----------- |
 | Bad vibes | 8 |
 | Bad food | 9 |
 
 ## This markdown exercise was...
-![](../sensational.gif)
+![](../sensational.gif0
