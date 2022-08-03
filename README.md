@@ -6,7 +6,7 @@
 
 2. I like to type in **bold** and use _italics_ becuase it makes it come across as **_sassy_** and **_sassy_** if **GOOD**
 
-3. ![Here is a random image](../spongebob.jpg.webp)
+3. ![Here is a random image](https://ftw.usatoday.com/wp-content/uploads/sites/90/2017/05/spongebob.jpg?resize=1000,600)
 
 
 ## This is a list of things I don't like
@@ -17,4 +17,4 @@
 | Bad food | 9 |
 
 ## This markdown exercise was...
-![](../sensational.gif0
+![](https://c.tenor.com/PJHQMgyFTe8AAAAC/sensational.gif)
